@@ -2,7 +2,7 @@
 This is a basic scaffold we use in CloudQuish
 
 To  use this scaffold follow the following steps:
-1. npx cloudquish-scaffold
+1. git clone https://github.com/nishanprime/FlaskMVCSetup
 
 Thats it! You are good to go!
 
