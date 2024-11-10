@@ -1,0 +1,21 @@
+[2024-11-07 14:24:08,363] WARNING in __init__: Rate limit exceeded: 127.0.0.1 - /api/db-status
+[2024-11-07 14:25:51,408] INFO in __init__: 127.0.0.1 - [2024-11-07 14:25:51] "GET /api/db-status HTTP/HTTP/1.1" 200
+[2024-11-07 14:25:57,599] INFO in __init__: 127.0.0.1 - [2024-11-07 14:25:57] "GET /api/db-status HTTP/HTTP/1.1" 200
+[2024-11-07 14:25:57,819] INFO in __init__: 127.0.0.1 - [2024-11-07 14:25:57] "GET /api/db-status HTTP/HTTP/1.1" 200
+[2024-11-07 14:25:57,964] INFO in __init__: 127.0.0.1 - [2024-11-07 14:25:57] "GET /api/db-status HTTP/HTTP/1.1" 200
+[2024-11-07 14:25:58,134] INFO in __init__: 127.0.0.1 - [2024-11-07 14:25:58] "GET /api/db-status HTTP/HTTP/1.1" 200
+[2024-11-07 14:25:58,306] INFO in __init__: 127.0.0.1 - [2024-11-07 14:25:58] "GET /api/db-status HTTP/HTTP/1.1" 200
+[2024-11-07 14:25:58,502] INFO in __init__: 127.0.0.1 - [2024-11-07 14:25:58] "GET /api/db-status HTTP/HTTP/1.1" 200
+[2024-11-07 14:26:05,789] INFO in __init__: 127.0.0.1 - [2024-11-07 14:26:05] "GET /api/db-status HTTP/HTTP/1.1" 200
+[2024-11-07 14:26:06,041] INFO in __init__: 127.0.0.1 - [2024-11-07 14:26:06] "GET /api/db-status HTTP/HTTP/1.1" 200
+[2024-11-07 14:26:06,156] INFO in __init__: 127.0.0.1 - [2024-11-07 14:26:06] "GET /api/db-status HTTP/HTTP/1.1" 200
+[2024-11-07 14:26:06,329] WARNING in __init__: Rate limit exceeded: 127.0.0.1 - /api/db-status
+[2024-11-07 14:26:06,526] WARNING in __init__: Rate limit exceeded: 127.0.0.1 - /api/db-status
+[2024-11-07 14:26:17,917] DEBUG in __init__: Rate limit exceeded: 127.0.0.1 - /api/db-status
+[2024-11-07 14:26:18,080] DEBUG in __init__: Rate limit exceeded: 127.0.0.1 - /api/db-status
+[2024-11-07 14:26:18,270] DEBUG in __init__: Rate limit exceeded: 127.0.0.1 - /api/db-status
+[2024-11-07 14:26:18,406] DEBUG in __init__: Rate limit exceeded: 127.0.0.1 - /api/db-status
+[2024-11-07 14:28:07,170] WARNING in __init__: Rate limit exceeded: 127.0.0.1 - /api/db-status
+[2024-11-07 14:28:07,170] INFO in __init__: Request JSON Body: None
+[2024-11-07 14:28:07,317] WARNING in __init__: Rate limit exceeded: 127.0.0.1 - /api/db-status
+[2024-11-07 14:28:07,318] INFO in __init__: Request JSON Body: None

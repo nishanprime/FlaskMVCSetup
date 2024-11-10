@@ -1,0 +1,5 @@
+[2024-11-07 14:17:37,413] WARNING in __init__: Rate limit exceeded: 127.0.0.1 - /api/db-status
+[2024-11-07 14:20:39,243] WARNING in __init__: Rate limit exceeded: 127.0.0.1 - /api/db-status
+[2024-11-07 14:20:39,414] WARNING in __init__: Rate limit exceeded: 127.0.0.1 - /api/db-status
+[2024-11-07 14:20:39,592] WARNING in __init__: Rate limit exceeded: 127.0.0.1 - /api/db-status
+[2024-11-07 14:20:39,758] WARNING in __init__: Rate limit exceeded: 127.0.0.1 - /api/db-status
